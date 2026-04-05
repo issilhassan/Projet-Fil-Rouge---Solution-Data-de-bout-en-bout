@@ -1,0 +1,6 @@
+# Log démarré 2026-03-24 14:11
+# Enregistrement des commandes de la session. Notez que leur
+# modification peut être nécessaire avant de les utiliser comme code.
+open \
+  "C:\Users\zakaria\Desktop\Projet Fil Rouge — Solution Data de bout en bout\data\2-Modelling\Logistique Regression\P12-Email-Offer.csv"
+gnuplot  TookAction Age
